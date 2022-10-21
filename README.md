@@ -1,4 +1,4 @@
-# Moringa-Core-Statistics
+# Hypothesis Testing
 
 
 We have been tasked to understand electric car usage. We will work as a Data Scientist for the Autolib electric car-sharing service company to investigate a claim about the blue cars from the provided Autolib dataset.
